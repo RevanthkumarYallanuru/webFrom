@@ -1,0 +1,172 @@
+.title
+{
+  padding: 20px;
+  text-align: center;
+}
+.title h2{
+  color: #fff;
+  
+}
+.title label
+{
+  font-size: 19px;
+}
+
+.modex
+{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border: #fff 2px solid ;
+  padding: 5px;
+}
+#inputs
+{
+  background: Var(--input-bg-color);
+  height: 2.6rem;
+  padding: 3px;
+  width: 280px;
+  color: var(--input-color);
+  border:  Var(--input-color) 1px solid;
+  border-radius: 5px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  padding-left: 10px;
+
+}
+.row1
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap :40px;
+  margin-top:30px;
+}
+
+.cl1 label 
+{
+  font-size: 12px;
+}
+.dix
+{
+  display: flex;
+  gap: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  padding: 5px;
+  
+}
+.col1
+{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  gap :30px;
+}
+
+.box
+{
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.sk1
+{
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  font-size: 16px;
+  margin-left: -60px;
+}
+.agree
+{
+  margin-top: 00px;
+}
+
+.final
+{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 22px;
+}
+
+.final #fileip
+{
+  background: Var(--input-bg-color);
+  height: 4.6rem;
+  padding: 22px;
+  width: 600px;
+  color: var(--input-color);
+  border:  Var(--input-color) 1px solid;
+  border-radius: 5px;
+  margin-top: 3px;
+  padding-left: 240px;
+  
+  
+}
+.sk1 label input
+{
+  margin-right: 13px;
+}
+.part2
+{
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+
+}
+
+.subs
+{
+  background: #0948cf;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  height: 60px;
+  width: 600px;
+}
+/* for checkboxes */
+
+input[type="checkbox"]
+{
+  
+  accent-color: blue;
+  background-color:#575759;
+  border-radius: 3px;
+  position: relative;
+}
+
+
+/* inut field */
+input[type="file"] {
+  opacity: 0;
+  position: absolute;
+ 
+}
+
+input[type="file"] + label {
+  background-image: url('./upload.jpeg');
+  height: 4.6rem;
+ 
+  width: 600px;
+  background-size: cover;
+  background-position: center;
+
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="file"]:focus + label {
+  border-color: #aaa;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
