@@ -109,9 +109,11 @@
   
   
 }
-.sk1 label input
+.sk1 label 
 {
-  margin-right: 13px;
+  margin-top:  10px;
+  font-size: 14px;
+
 }
 .part2
 {
@@ -140,11 +142,19 @@ input[type="checkbox"]
 {
   
   accent-color: blue;
-  background-color:#575759;
+  background-color:#616463;
   border-radius: 3px;
   position: relative;
 }
+input[type="checkbox"]::before
+{
+  content: '';
+  height: 6px;
+  width: 6px;
+  border: #0948cf;
 
+  background-color:var(--input-bg-color);
+}
 
 /* inut field */
 input[type="file"] {

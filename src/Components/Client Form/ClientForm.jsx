@@ -128,31 +128,31 @@ const ClientForm = () => {
                 <div className="box">
                 <div className="sk1">
                   <label htmlFor="HTML">
-                  <input type="checkbox" name="HTML" id="" value="HTML" />HTML
+                  <input type="checkbox" name="HTML" id="" value="HTML" /> HTML
                   </label>
 
                   <label htmlFor="CSS">
-                  <input type="checkbox"id="" value="Blender" class="accent-your-accent-color bg-gray-500" />CSS
+                  <input type="checkbox"id="" value="Blender" class="accent-your-accent-color bg-gray-500" /> CSS
                   </label>
                   
                   <label htmlFor="JS">
-                  <input type="checkbox" name="JS" id="" value="HTML" />JS
+                  <input type="checkbox" name="JS" id="" value="HTML" /> JS
                   </label>
                   
                   <label htmlFor="TailWindCSS">
-                  <input type="checkbox" name="TailWindCSS" id="" value="TailWindCSss" />TailWindCss
+                  <input type="checkbox" name="TailWindCSS" id="" value="TailWindCSss" /> TailWindCss
                   </label>
                   
                   <label htmlFor="ReactJS">
-                  <input type="checkbox" name="ReactJS" id="" value="ReactJS" />ReactJS
+                  <input type="checkbox" name="ReactJS" id="" value="ReactJS" /> ReactJS
                   </label>
                   
                   <label htmlFor="AngularJs">
-                  <input type="checkbox" name="Flutter" id="" value="Flutter" />Flutter
+                  <input type="checkbox" name="Flutter" id="" value="Flutter" /> Flutter
                   </label>
                   
                   <label htmlFor="Vue JS">
-                  <input type="checkbox" name="Vue Js" id="" value="HTML" />Vue JS
+                  <input type="checkbox" name="Vue Js" id="" value="HTML" /> Vue JS
                   </label>
                   
                 </div>
@@ -162,27 +162,27 @@ const ClientForm = () => {
 
                 <div className="sk1">
                   <label htmlFor="nodejs">
-                  <input type="checkbox" name="nodejs" id="" value="nodejs" />NodeJs
+                  <input type="checkbox" name="nodejs" id="" value="nodejs" /> NodeJs
                   </label>
 
                   <label htmlFor="No-SQL">
-                  <input type="checkbox" name="No-SQL" id="" value="No-SQL" />No-SQL
+                  <input type="checkbox" name="No-SQL" id="" value="No-SQL" /> No-SQL
                   </label>
                   
                   <label htmlFor="MongoDB">
-                  <input type="checkbox" name="MongoDB" id="" value="MongoDB" />MongoDB
+                  <input type="checkbox" name="MongoDB" id="" value="MongoDB" /> MongoDB
                   </label>
                   
                   <label htmlFor="Nodemon">
-                  <input type="checkbox" name="Nodemon" id="" value="Nodemon" />Nodemon
+                  <input type="checkbox" name="Nodemon" id="" value="Nodemon" /> Nodemon
                   </label>
                   
                   <label htmlFor="Material UI">
-                  <input type="checkbox" name="Material UI" id="" value="Material UI" />Material UI
+                  <input type="checkbox" name="Material UI" id="" value="Material UI" /> Material UI
                   </label>
                   
                   <label htmlFor="Express Js">
-                  <input type="checkbox" name="Express Js" id="" value="Express Js" />Express Js
+                  <input type="checkbox" name="Express Js" id="" value="Express Js" /> Express Js
                   </label>
                   
                  
@@ -191,27 +191,27 @@ const ClientForm = () => {
 
                 <div className="sk1">
                   <label htmlFor="SQL">
-                  <input type="checkbox" name="SQL" id="" value="SQLL" />SQL
+                  <input type="checkbox" name="SQL" id="" value="SQLL" /> SQL
                   </label>
 
                   <label htmlFor="firebase">
-                  <input type="checkbox" name="firebase" id="firebase" value="firebase" />firebase
+                  <input type="checkbox" name="firebase" id="firebase" value="firebase" /> firebase
                   </label>
                   
                   <label htmlFor="Django">
-                  <input type="checkbox" name="Django" id="Django" value="Django" />Django
+                  <input type="checkbox" name="Django" id="Django" value="Django" /> Django
                   </label>
                   
                   <label htmlFor="Flask">
-                  <input type="checkbox" name="Flask" id="Flask" value="Flask" />Flask
+                  <input type="checkbox" name="Flask" id="Flask" value="Flask" /> Flask
                   </label>
                   
                   <label htmlFor="Wordpress">
-                  <input type="checkbox" name="Wordpress" id="" value="Wordpress" />Wordpress
+                  <input type="checkbox" name="Wordpress" id="" value="Wordpress" /> Wordpress
                   </label>
                   
                   <label htmlFor="Flutter">
-                  <input type="checkbox" name="Flutter" id="" value="Flutter" />Flutter
+                  <input type="checkbox" name="Flutter" id="" value="Flutter" /> Flutter
                   </label>
                   
                   
@@ -228,7 +228,7 @@ const ClientForm = () => {
                   </label>
                   
                   <label htmlFor="Post man">
-                  <input type="checkbox" name="Post man" id="" value="HTML" />Post man
+                  <input type="checkbox" name="Post man" id="" value="HTML" /> Post man
                   </label>
                   
                   <label htmlFor="Wix">
@@ -236,12 +236,12 @@ const ClientForm = () => {
                   </label>
                   
                   <label htmlFor="Figma">
-                  <input type="checkbox" name="Figma" id="" value="Figma" />Figma
+                  <input type="checkbox" name="Figma" id="" value="Figma" /> Figma
                   </label>
                   
                  
                   <label htmlFor="Spline">
-                  <input type="checkbox" name="Spline" id="" value="Spline" />spline
+                  <input type="checkbox" name="Spline" id="" value="Spline" /> spline
                   </label>
                   
                 </div>
